@@ -1,0 +1,27 @@
+body{
+    color: #777777;
+    font-size: 16px;
+    line-height: 150%;
+    background-image: url("../images/dark_brick_wall.png");
+}
+p{
+    font-size: 12px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+.crystalicons{
+    width: 150px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+}
+.col-md-4{
+    background-color: rgb(196, 194, 194);
+    padding: 25px;
+    color: black;
+}
+.col-md-2 {
+    background-color: white;
+    padding: 20px;
+}
